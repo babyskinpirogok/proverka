@@ -1,3 +1,4 @@
+# Добавить аргумены в функцию input
 i = int(input())
 s = int(input())
 y = int(input())
