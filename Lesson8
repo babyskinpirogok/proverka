@@ -1,2 +1,4 @@
-A = input()
-ptint(a)
+a = input()
+s = input()
+print(a, " ", s)
+
